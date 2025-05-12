@@ -11,7 +11,7 @@ This project predicts flight prices based on user inputs like airline, source, d
 
 ## 📊 Dataset Source
 
-Used a public flight price dataset from [insert source here — e.g., Kaggle](https://www.kaggle.com/). The dataset includes features like:
+Used a public flight price dataset from ([https://www.kaggle.com/](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)). The dataset includes features like:
 - Airline
 - Source/Destination City
 - Stops
