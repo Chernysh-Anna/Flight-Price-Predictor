@@ -34,10 +34,10 @@ Model Performance on test set:
 - **R² Score**: 0.9848
 
 ### 🔍 Feature Importance (top 15)
-![Feature Importance](feature_importance.png)
+![Feature Importance](/feature_importance.png)
 
 ### 🎯 Residual Plot
-![Residual Plot](residuals.png)
+![Residual Plot](/residuals.jpg)
 
 ## 🚀 Run the App
 
