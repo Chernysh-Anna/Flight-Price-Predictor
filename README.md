@@ -7,7 +7,7 @@ This project predicts flight prices based on user inputs like airline, source, d
 - `train_model.py`: Data cleaning, preprocessing, training, and model saving.
 - `app.py`: Streamlit web app for user input and predictions.
 - `random_forest_model.pkl`: Trained model used by the app.
-- `Dataset.csv`: Flight pricing dataset (or a link to it if it's too large).
+- `Dataset.csv`: Flight pricing dataset 
 
 ## 📊 Dataset Source
 
